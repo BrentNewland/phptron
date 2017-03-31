@@ -1,0 +1,4 @@
+ADWCleaner
+-Owned by MBAM
+-Download URL https://toolslib.net/downloads/finish/1/
+-Download URL Alternate https://www.bleepingcomputer.com/download/adwcleaner/dl/125/

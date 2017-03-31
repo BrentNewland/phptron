@@ -1,0 +1,17 @@
+.NET Framework Repair Tool
+-Command line parameters https://support.microsoft.com/en-us/help/2698555/microsoft-.net-framework-repair-tool-is-available
+-Also has download URL's and file names for all .net frameworks for offline repair
+--Integrate with framework installer script
+-Download URL https://www.microsoft.com/en-us/download/details.aspx?id=30135
+-XPSP3 and up
+=====
+.NET Framework Setup Verification Tool
+-Can detect some problems with .net frameworks, may be useful for automatically running .net repair
+-https://blogs.msdn.microsoft.com/astebner/2008/10/13/net-framework-setup-verification-tool-users-guide/
+-Command line parameters in page
+=====
+.NET Framework Cleanup Tool
+-Completely and forcefully remove all .NET frameworks
+-https://blogs.msdn.microsoft.com/astebner/2008/08/28/net-framework-cleanup-tool-users-guide/
+-Command line parameters in page
+-MORE .NET FRAMEWORK DOWNLOAD URL'S IN LINK

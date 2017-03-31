@@ -1,0 +1,2 @@
+Should be optional
+Should have option of auto-removing java

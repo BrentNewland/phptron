@@ -1,0 +1,6 @@
+https://www.bleachbit.org/
+
+Same as ccleaner, even uses winapp2.ini
+Therefore, can be replaced with scripts
+
+Don't need free space wiping or secure file shredding, waste of time

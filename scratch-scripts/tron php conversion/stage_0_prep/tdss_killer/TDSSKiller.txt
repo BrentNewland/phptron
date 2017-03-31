@@ -1,0 +1,3 @@
+
+-Download URL http://media.kaspersky.com/utilities/VirusUtilities/EN/tdsskiller.exe
+-Command Line Parameters http://www.malwareremovalguides.info/how-to-use-kaspersky-tdsskiller/

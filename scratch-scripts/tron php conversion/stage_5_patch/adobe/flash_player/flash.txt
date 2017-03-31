@@ -1,0 +1,8 @@
+Flash Uninstaller http://download.macromedia.com/get/flashplayer/current/support/uninstall_flash_player.exe
+
+Latest NPAPI http://fpdownload.adobe.com/pub/flashplayer/latest/help/install_flash_player.exe
+
+Latest ActiveX http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ax.exe
+
+Latest PPAPI http://fpdownload.adobe.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe
+

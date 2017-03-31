@@ -1,0 +1,248 @@
+:: Purpose:       List of specific programs to target by name and wildcard. Called by Tron in Stage 2: De-bloat
+::                Add any GUID uninstall commands to this list to target them for removal
+::                Any line that starts with "::" or the word "set" will be ignored by Tron
+:: Requirements:  Administrator access
+:: Author:        vocatus on reddit.com/r/TronScript ( vocatus.gate at gmail ) // PGP key: 0x07d1490f82a211a2
+:: Version:       1.0.1 + Add SimilarDeals. Thanks /u/Padankadank
+::                1.0.0 * Convert list to new format to support looping directly from the Stage 2 script. This allows us to override the uninstall block caused by entries in PendingFileRenameOperations
+
+
+
+::::::::::
+:: PREP ::
+::::::::::
+set PROGRAMS_TO_TARGET_BY_NAME_SCRIPT_VERSION=1.0.1
+set PROGRAMS_TO_TARGET_BY_NAME_SCRIPT_DATE=2016-11-08
+
+
+
+:::::::::::::::::
+:: TARGET LIST ::
+:::::::::::::::::
+%%180Search%%
+%%555%%
+%%AdBlocknWatch%%
+%%AppToU%%
+%%BlocckkTheAds%%
+%%CCC Help%%
+%%ClipGenie%%
+%%CoolWWW%%
+%%CoolWebSearch%%
+%%Coupon%%
+%%Cydoor%%
+%%Esuack%%
+%%FashionLife%%
+%%Freenpro25%%
+%%Gamevance%%
+%%MapsGalaxy%%
+%%QuickTime%%
+%%SaferSurf%%
+%%SaveForYou%%
+%%Savings%%
+%%Search%%
+%%Shop_and_Up%%
+%%Shopper%%
+%%SpeedUpMyPC%%
+%%Start Search%%
+%%TidyNetwork%%
+%%Toolbar%%
+%%Trial%%
+%%Virtumundo%%
+%%VirusProtectPro%%
+%%WeatherBug%%
+%%WhenUsave%%
+%%Zango%%
+%%iBryte%%
+%%iStart123%%
+180 Solution%%
+24x7 Help
+3vix%%
+ASUS%%
+AVG PC TuneUp%%
+AVG Web TuneUp
+Acer%%
+Adobe Shockwave%%
+Advanced Registry%%
+Advanced%%FX Engine
+Akamai%%
+Altnet
+Amazon Browser%%
+Any Video Converter%%
+AppsHat
+ArcadeParlor
+Ask%%Toolbar
+AtuZi
+Baidu PC Faster%%
+Big Fish Games: Game Manager
+Big Fish: Game Manager
+Bing%%
+BitTorrentBar Toolbar
+BlueStack%%
+Bonzi Buddy%%
+Browser%%Optimize%%
+BrowserSafeguard%%
+Buzzdock%%
+CWA Reminder by We-Care.com%%
+ClickForSale
+CloudScout%%
+Comodo%%
+ConservativeTalkNow Firefox Toolbar
+CutePDF Editor Toolbar Updater
+DealPly (remove only)
+DealScout for Internet Explorer
+Dell%%
+Delta toolbar
+Discovery Tools
+Download Updater (AOL Inc.)
+DriverUpdate%%
+Face Theme
+File Type Assistant%%
+Files Opened
+FilesFrog Update Checker
+Free Download Manager%%
+Free Studio%%
+Free YouTube%%
+FromDocToPDF Internet Explorer Toolbar
+FromDocToPDF Toolbar
+GetSavin
+HD-Total-%%
+HP%%Assistant%%
+HP%%Documentation%%
+HP%%Guide%%
+HP%%Help%%
+HP%%Notifications%%
+HP%%Registration%%
+HP%%Study%%
+HP%%Support%%
+HP%%Update%%
+IB Updater%%
+IObit%%
+IWon%%
+Iminent
+Inbox Toolbar
+InfoAtoms
+InstaCodecs
+Intel%%ME%%UninstallLegacy
+Intel%%Management Engine%%
+Intel%%Smart%%
+Internet Explorer Toolbar%%
+InternetHelper3 Toolbar
+Launch Manager%%
+Lenovo%%
+LinkSwift%%
+Live Updater
+Live! Cam Avatar%%
+MPlayerplus%%
+MapsGalaxy%%
+McAfee Security Scan
+Media Buzz
+Media Gallery%%
+Media View%%
+Media Watch%%
+Mindspark%%
+MixiDJ V30 Toolbar
+MobileWiFi%%
+Mobogenie
+Move Media%%
+My HP%%
+My Scrap Nook Internet Explorer Toolbar
+My Web Searc%%
+MyPC Backup%%
+Mysearchdial
+Nero%%
+Norton Internet%%
+OMG Music Plus%%
+OOBE%%
+Optimizer Pro%%
+Orbit Downloader
+PDFLite Toolbar
+PMB%%
+Pdf995%%
+Plus-HD-1.3
+PopularScreensavers Toolbar and Software
+Price Check by AOL
+PrivDog
+Productivity%%Toolbar for IE
+QuickShare
+Qwiklinx
+RadioRage%%
+Raptr
+RealDownloader%%
+RealNetworks%%
+RealUpgrade%%
+RegClean Pro
+RegInOut%%
+Remote Keyboard
+Remote Play with Playstation%%
+Rich Media View
+Rock Turner
+Roxio%%
+SLOW-PCfighter
+SaveOn%%
+ScorpionSave%%
+Search Assistant%%
+Search Pro%%
+Search Setting%%
+Search Toolba%%
+SelectionLinks
+Shop To Win
+ShopAtHome.com Toolbar
+Shopper%%
+Shopping%%
+SimilarDeals%%
+SmartWebPrinting%%
+Smiley Central%%
+SocialSafe
+Software Assist
+Software Updater
+Soluto
+Sonic CinePlayer%%
+Sony Music%%
+Spam Free Search Toolbar
+SpeedUpMyPc%%
+Speedial%%
+StartNow Toolbar
+Super Optimizer%%
+SweetIM for Messenger%%
+SweetPacks%%
+SySaver
+The Gator
+TidyNetwork.com
+Toolbar%%
+TopArcadeHits
+Toshiba%%
+Uninstall Helper
+UserGuide%%
+Utility Chest Toolbar
+VAIO%%
+VGClient%%
+Video Converter%%
+Video Player
+VideoDownloadConverter%%
+VideoFileDownload
+VisualBee%%
+Wajam
+WebConnect%%
+Webshots%%
+WhenU%%
+WildGames%%
+WildTangent%%
+Windows Internet Guard%%
+WiseConvert%%
+Yahoo%%Browser%%
+Yahoo%%Search%%
+Yahoo%%Software%%
+Yahoo%%Toolbar
+Yammer%%
+Yontoo%%
+YouTube Downloader%%
+ZD Manager
+Zip Opener Packages
+eBay%%
+eMachines%%
+flash-Enhancer%%
+freemakeTB Toolbar
+hpStatusAlerts%%
+lucky leap%%
+pdfforge Toolbar%%
+uTorrentControl2 Toolbar

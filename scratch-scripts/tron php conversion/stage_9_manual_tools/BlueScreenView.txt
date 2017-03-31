@@ -1,0 +1,8 @@
+BlueScreenView
+-NirSoft
+-Command line parameters http://www.nirsoft.net/utils/blue_screen_view.html
+-Windows needs to be configured to create minidumps instead of full crash dumps
+-Need to remove analyzed crash dumps, move minidumps to log folder?
+-Get DumpChk from Microsoft Debugging Tools?
+-Download URL x86 http://www.nirsoft.net/utils/bluescreenview.zip
+-Download URL x64 http://www.nirsoft.net/utils/bluescreenview-x64.zip

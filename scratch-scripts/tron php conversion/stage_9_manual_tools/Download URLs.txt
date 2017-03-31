@@ -1,0 +1,78 @@
+.NET Framework Repair Tool
+-Command line parameters https://support.microsoft.com/en-us/help/2698555/microsoft-.net-framework-repair-tool-is-available
+-Also has download URL's and file names for all .net frameworks for offline repair
+--Integrate with framework installer script
+-Download URL https://www.microsoft.com/en-us/download/details.aspx?id=30135
+-XPSP3 and up
+=====
+.NET Framework Setup Verification Tool
+-Can detect some problems with .net frameworks, may be useful for automatically running .net repair
+-https://blogs.msdn.microsoft.com/astebner/2008/10/13/net-framework-setup-verification-tool-users-guide/
+-Command line parameters in page
+=====
+.NET Framework Cleanup Tool
+-Completely and forcefully remove all .NET frameworks
+-https://blogs.msdn.microsoft.com/astebner/2008/08/28/net-framework-cleanup-tool-users-guide/
+-Command line parameters in page
+-MORE .NET FRAMEWORK DOWNLOAD URL'S IN LINK
+
+ADS Spy
+-NT,2K,XP,2K3 only
+-Alternate Data Stream inspector
+-Can probably find a better tool
+
+ADWCleaner
+-Owned by MBAM
+-Download URL https://toolslib.net/downloads/finish/1/
+-Download URL Alternate https://www.bleepingcomputer.com/download/adwcleaner/dl/125/
+
+AutoRuns
+-Download URL https://live.sysinternals.com/autoruns.exe
+-Command line parameters https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx
+
+BlueScreenView
+-NirSoft
+-Command line parameters http://www.nirsoft.net/utils/blue_screen_view.html
+-Windows needs to be configured to create minidumps instead of full crash dumps
+-Need to remove analyzed crash dumps, move minidumps to log folder?
+-Get DumpChk from Microsoft Debugging Tools?
+-Download URL x86 http://www.nirsoft.net/utils/bluescreenview.zip
+-Download URL x64 http://www.nirsoft.net/utils/bluescreenview-x64.zip
+
+ComboFix
+-Only XP through 7
+-Download URL https://www.bleepingcomputer.com/download/combofix/dl/12/
+-NOT ComboFix.org (junk site)
+-No native command line support, but EXE can be extracted with 7Zip
+
+Junkware Removal Tool
+-Download URL http://data-cdn.mbamupdates.com/web/JRT.exe
+-Alternate https://www.bleepingcomputer.com/download/junkware-removal-tool/dl/293/
+
+Net Adapter Repair Tool
+-https://sourceforge.net/projects/netadapter/
+-Requires .NET 4
+-Might not be Windows 10 compatible
+-Can be disassembled and integrated into current repair scripts
+-Source https://drive.google.com/file/d/0B9lUS-KdtVUXaDZjd2FvbUc0cGc/view
+-Download URL https://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/dl/270/
+
+PC Hunter Anti-Rootkit tool
+-Download URL http://www.xuetr.com/download/PCHunter_free.zip
+-Download URL Alternate https://www.downloadcrew.com/article/29999-pc_hunter
+--Might not be easy to extract download URL
+-Download URL Alternate http://www.majorgeeks.com/files/details/pc_hunter.html
+
+Remote Support Reboot Config
+-Created by /u/cuddlychops06 for TRON
+-XP>8.x
+-"Configures auto-login on the system. For using Tron remotely in case the system reboots"
+
+	
+ServicesRepair
+-Attempts to repair some core Windows services
+-Comes from?
+	
+Tron Reset Tool
+-Clean up all Tron-related stuff from the registry. Sometimes if Tron dies in the middle of a run it can leave stuff laying around
+

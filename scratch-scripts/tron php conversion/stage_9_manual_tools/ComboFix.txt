@@ -1,0 +1,5 @@
+ComboFix
+-Only XP through 7
+-Download URL https://www.bleepingcomputer.com/download/combofix/dl/12/
+-NOT ComboFix.org (junk site)
+-No native command line support, but EXE can be extracted with 7Zip

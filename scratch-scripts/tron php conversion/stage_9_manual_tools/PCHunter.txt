@@ -1,0 +1,5 @@
+PC Hunter Anti-Rootkit tool
+-Download URL http://www.xuetr.com/download/PCHunter_free.zip
+-Download URL Alternate https://www.downloadcrew.com/article/29999-pc_hunter
+--Might not be easy to extract download URL
+-Download URL Alternate http://www.majorgeeks.com/files/details/pc_hunter.html

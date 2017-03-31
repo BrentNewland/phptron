@@ -1,0 +1,26 @@
+MSIZap
+-Does it work with Windows 8 and 10 safely?
+-How does it work?
+--"For all users, removes any cached Windows Installer data files that have been orphaned."
+--Does this mean that each user registry has installer info?
+
+PatchCleaner
+-http://www.homedev.com.au/free/patchcleaner
+-Finds orphaned Windows Installer files and moves or deletes them
+-Uses vbscript in part, may be able to reverse engineer
+-"To explain briefly how PatchCleaner works. Microsoft maintains a list of known required patches that you can obtain via a WMI call (Windows Management Instrumentation). I compare this list against what is actually in the installer folder. Anything in the folder that is not in the list is identified as an orphaned patch and can either be moved or deleted."
+
+%WINDIR%\Installer\$PatchCache$
+-Supposed to be safe to delete the contents
+-Info: https://blogs.msdn.microsoft.com/heaths/2007/01/17/the-patch-cache-and-freeing-space/
+
+WICleanup - Not x64 or 10 compatible?
+-Website offline
+
+Perform the opposite - list Windows Installer files that should exist and compare to what's on the disk?
+
+Apparently, Adobe Reader should always be ignored
+
+VBScript that does what's needed?
+-https://www.raymond.cc/blog/download/did/1653/
+-https://www.raymond.cc/blog/safely-delete-unused-msi-and-mst-files-from-windows-installer-folder/

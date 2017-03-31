@@ -1,0 +1,3 @@
+https://www.oo-software.com/en/shutup10
+
+Disables Windows 10 telemetry and whatnot

@@ -1,0 +1,10 @@
+comm.exe - used once to see if a file has been changed
+
+diff and fgrep not used
+
+https://sourceforge.net/projects/getgnuwin32/
+-Not recompiled since 2005 for coreutils
+
+
+
+Tools not needed, can be replicated with PHP commands

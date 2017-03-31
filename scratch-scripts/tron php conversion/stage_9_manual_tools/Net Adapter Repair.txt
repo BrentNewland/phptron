@@ -1,0 +1,7 @@
+Net Adapter Repair Tool
+-https://sourceforge.net/projects/netadapter/
+-Requires .NET 4
+-Might not be Windows 10 compatible
+-Can be disassembled and integrated into current repair scripts
+-Source https://drive.google.com/file/d/0B9lUS-KdtVUXaDZjd2FvbUc0cGc/view
+-Download URL https://www.bleepingcomputer.com/download/netadapter-repair-all-in-one/dl/270/

@@ -1,0 +1,4 @@
+ADS Spy
+-NT,2K,XP,2K3 only
+-Alternate Data Stream inspector
+-Can probably find a better tool

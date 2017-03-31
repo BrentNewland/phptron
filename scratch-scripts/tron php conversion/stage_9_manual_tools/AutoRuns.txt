@@ -1,0 +1,3 @@
+AutoRuns
+-Download URL https://live.sysinternals.com/autoruns.exe
+-Command line parameters https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx

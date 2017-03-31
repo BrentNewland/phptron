@@ -1,0 +1,5 @@
+https://www.kaspersky.com/downloads/thank-you/free-virus-removal-tool
+-Must be downloaded again for updates
+-Can extract and manually update
+
+Kaspersky AVZ is more powerful than VRT and has better command line customizability

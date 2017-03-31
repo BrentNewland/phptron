@@ -1,0 +1,3 @@
+https://www.safer-networking.org/spybot-anti-beacon/
+
+Blocks telemetry and spying on 7+

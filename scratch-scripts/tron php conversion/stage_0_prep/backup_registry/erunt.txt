@@ -1,0 +1,7 @@
+http://www.larshederer.homepage.t-online.de/erunt/
+-Not updated since 2005
+
+
+hobocopy
+-https://www.raymond.cc/blog/backup-restore-whole-windows-registry-selected-hives/
+-copies any file via VSS

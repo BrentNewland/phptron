@@ -1,0 +1,1 @@
+Anything ccleaner does can be done folder by folder with scripts

@@ -1,0 +1,22 @@
+http://www.sentex.net/~mwandel/finddupe/
+-Only tested from 2k to Vista
+-Not updated since 2010
+
+Swiss File Knife
+-http://stahlworks.com/dev/?tool=dupfind
+-One EXE, many tools
+-Updated very recently
+-Also Open Source
+-Command line
+
+
+Search My Files
+-http://www.nirsoft.net/utils/search_my_files.html
+-Nirsoft
+-GUI and Command Line
+
+Clonespy
+-http://www.clonespy.com/
+
+AllDupe
+-http://www.alldup.de/alldup_help/commandline.php
